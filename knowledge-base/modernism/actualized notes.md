@@ -1,0 +1,66 @@
+<iframe width="560" height="315" src="https://www.youtube.com/embed/421RyqJ5__4?si=uS1d56dnq2yxIyfm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## pre-modernism
+- stages purple, red and blue
+- very religious, you don't question
+- emphasis on community and collective identity
+- because you can't survive unless your clan survives (under this paradigm)
+- oral transmition of knowledge and wisdom (no writing yet)
+- rituals are important to keep the mind sane and the community together and keep people from doing crime
+- limited geographical awareness
+- usually represents a single culture, because we couldn't yet travel very far
+- pre-industrial
+- tribal
+- nepetism, status and cast over meritocricy
+- monarchy
+- aryvedic medicine
+- christian nationalism (not entirely pre-modern)
+- nepitism. your father inherits his power to you
+	- it's not you are the most qualified, you are the best connected
+
+## modernism
+- stages orange and green
+- the world exists as physical reality and you are in it
+- atheism
+- merit-ocracy
+- objective standards. beauty is not just in the eye of the beholder, there is objective beauty
+- movements of western intellectual tradition that fall under the umbrella of modernism
+	- early first wave feminism
+	- liberaterialism
+	- ian rans objectivism
+	- behaviorism
+	- formalism
+	- reductionism
+	- quantification
+- takes language for granted in scientific work
+	- it assumes language can accurately represent reality, doesn't present us with intractable problems for the nature of reality
+- technological master over nature
+- the trend is that the next decade is always better than the previous one
+- order, hierarchy, and structure
+	- atheism, secular humanism and liberal democracy
+- separation of church and state
+- secular society
+- secular = not connected with religious or spiritual matters
+- hierarchy of society should be based on merit, how competent are you
+- morality that's grounded in objective reason
+- kant-ean morality
+- sam harris' objective moralism
+- identifiable standards for asthetics and beauty
+- logical positivism
+- marxism
+- communism
+- us founding fathers and constitution
+- capitalism
+- thinkers
+	- decart
+	- hume?
+	- kant
+	- lock
+	- newton
+	- darwin
+	- marx
+	- freud
+	- einstein
+
+## post-modernism
+- stages yellow and beyond
+- richard rorty
