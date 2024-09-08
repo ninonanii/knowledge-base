@@ -1,0 +1,7 @@
+- Wealthy countries already have systems in place where the government gives people money (e.g., food stamps), but these systems are inefficient due to a large bureaucratic layer:
+	- Decisions are made on who gets what amount of money.
+	- Forms need to be filled out and processed.
+- UBI could simplify this by depositing a fixed amount directly into your bank account, just for living in a wealthy country, making the system much more efficient. ## Is UBI always inflationary?
+- Wouldn't that make people no longer want to work the worst type of jobs?
+	- Yes. We saw when people got covid-money. employers complained nobody wants to work anymore, and people didn't want to pick those bad jobs with no future prospects. what the employers had to do was raise wages, which is a good thing.
+- in general it's a basic safety-net. you can't go to 0.
