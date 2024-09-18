@@ -6,6 +6,15 @@ Myers-Briggs Type Indicator
 - **Thinking (T) vs. Feeling (F)**
 - **Judging (J) vs. Perceiving (P)**
 
+- **Extraversion vs. Introversion**:
+    - **"Do you feel more energized by being around other people (E) or by spending time alone (I)?"**
+- **Sensing vs. Intuition**:
+    - **"Do you prefer focusing on concrete details and facts (S) or on abstract concepts and possibilities (N)?"**
+- **Thinking vs. Feeling**:
+    - **"When making decisions, do you prioritize logic and objective criteria (T) or values and how decisions affect people (F)?"**
+- **Judging vs. Perceiving**:
+    - **"Do you prefer having a planned and organized approach (J) or a flexible and spontaneous approach (P)?"**
+
 ### 1. **Introversion (I) vs. Extraversion (E)**
 
 This dimension reflects where you primarily get your energy from and how you interact with the world.
