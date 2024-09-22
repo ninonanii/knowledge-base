@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/Infinity.md",
+                "file": "_index/topics overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/Infinity.md",
+                "file": "_index/topics overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concepts/Infinity.md",
+                "file": "_index/topics overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepts/Infinity.md"
+                "file": "_index/topics overview.md"
               }
             }
           }
@@ -146,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7caaedcf2c2e6b8",
+  "active": "2169be9963bff277",
   "lastOpenFiles": [
+    "concepts/Infinity.md",
     "ayurveda",
     "personality models/MBTI.md",
-    "concepts/Infinity.md",
     "personality models/models.md",
     "spiral dynamics/good vs evil for all spiral stages.md",
     "spiral dynamics/spiral dynamics.md",
@@ -169,7 +169,7 @@
     "_unrelated/date notes.md",
     "_unrelated/random notes.md",
     "_index/me.md",
-    "_index/topics.md",
+    "_index/topics overview.md",
     "_unrelated",
     "personality models",
     "myers-briggs type indicator MBTI",
