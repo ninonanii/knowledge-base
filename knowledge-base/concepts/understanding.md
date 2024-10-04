@@ -1,0 +1,3 @@
+- understanding precedes treatment
+- you can't change another person. but once you help them understand, they change by themselves
+- we learn through experience, not information

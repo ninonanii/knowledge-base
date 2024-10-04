@@ -1,0 +1,21 @@
+# goals 2024-10
+- develop a partnership
+- move towards stage yellow by learning
+	- understand my feelings better
+	- improve my knowledge base
+	- move from dopamine to serotonin
+- improve health
+	- improve sleep
+	- keep my workout habit
+	- relax and calm down
+- spend money in this growth phase
+- wear clothes with good fashion style regularly
+- spend some time with my parents / supporting them when needed
+# goals 2024-09
+- get ripped and in shape
+- get a girlfriend
+- having a big knowledge base
+- meditation habit
+- wear clothes with good fashion style regularly
+- spending some time with my parents / supporting them when needed
+- getting to 200k€ in savings

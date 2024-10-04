@@ -1,0 +1,4 @@
+- laziness is not a thing on it's own - it's just efficiency
+- if laziness is a problem look at the causes:
+	- willpower. is it depleted too early?
+	- motivation. what do I really want?

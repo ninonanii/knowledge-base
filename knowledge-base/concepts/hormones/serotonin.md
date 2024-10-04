@@ -1,0 +1,3 @@
+- feelings of peace and contentment
+- sustainable
+- non horny

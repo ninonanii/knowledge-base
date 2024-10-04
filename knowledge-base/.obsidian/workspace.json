@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index/topics overview.md",
+                "file": "_index/goals.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index/topics overview.md",
+                "file": "_index/goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index/topics overview.md",
+                "file": "_index/goals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index/topics overview.md"
+                "file": "_index/goals.md"
               }
             }
           }
@@ -148,12 +148,25 @@
   },
   "active": "2169be9963bff277",
   "lastOpenFiles": [
+    "people/Mark Cuban.md",
+    "people/Vivek Ramaswamy.md",
+    "_index/goals.md",
+    "concepts/debt.md",
+    "concepts/hormones/dopamine.md",
+    "concepts/hormones/oxytocin.md",
+    "concepts/romantic attraction.md",
+    "concepts/hormones/serotonin.md",
+    "concepts/hormones",
+    "concepts/Infinity.md",
+    "concepts/using negative emotions.md",
     "_index/me.md",
+    "_index/topics overview.md",
     "_index/how to use markdown.md",
+    "concepts/laziness.md",
+    "concepts/understanding.md",
+    "emotions and brain states",
     "concepts/Intrinsic Value.md",
     "concepts/Universal Basic Income.md",
-    "concepts/Infinity.md",
-    "_index/topics overview.md",
     "ayurveda",
     "personality models/MBTI.md",
     "personality models/models.md",
@@ -164,25 +177,12 @@
     "spiral dynamics/stages/6 green.md",
     "spiral dynamics/stages/5 orange.md",
     "spiral dynamics/stages/4 blue.md",
-    "spiral dynamics/stages/3 red.md",
-    "spiral dynamics/stages/2 purple.md",
-    "spiral dynamics/stages/1 beige.md",
     "spiral dynamics/stages",
     "concepts",
-    "_unrelated/date notes.md",
-    "_unrelated/random notes.md",
     "_unrelated",
     "personality models",
     "myers-briggs type indicator MBTI",
-    "modernism/_intro.md",
-    "people/Flint Dibble.md",
-    "modernism/actualized notes.md",
-    "people/freud.md",
-    "people/einstein.md",
-    "people/marx.md",
     "people",
-    "spiral dynamics",
-    "modernism",
-    "_index"
+    "spiral dynamics"
   ]
 }

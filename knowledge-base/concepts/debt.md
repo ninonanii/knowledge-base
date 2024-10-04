@@ -1,0 +1,1 @@
+- the idea of debt is that you borrow something and pay it back with interest, because you bet on the value of the borrowed asset outperforming the interest
