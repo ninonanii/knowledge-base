@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "aebf44e27b194921",
+        "id": "116dd6ee2a9c49e6",
         "type": "tabs",
         "children": [
           {
-            "id": "2169be9963bff277",
+            "id": "394f96f61aa1c93a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index/goals.md",
+                "file": "people/politicians/Bernie Sanders.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Bernie Sanders"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index/goals.md",
+                "file": "concepts/hormones/dopamine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for dopamine"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index/goals.md",
+                "file": "concepts/hormones/dopamine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from dopamine"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index/goals.md"
-              }
+                "file": "concepts/hormones/dopamine.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of dopamine"
             }
           }
         ]
@@ -146,13 +162,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2169be9963bff277",
+  "active": "394f96f61aa1c93a",
   "lastOpenFiles": [
-    "people/Mark Cuban.md",
-    "people/Vivek Ramaswamy.md",
-    "_index/goals.md",
-    "concepts/debt.md",
     "concepts/hormones/dopamine.md",
+    "people/politicians/Bernie Sanders.md",
+    "people/politicians",
+    "concepts/equity.md",
+    "people/entrepreneurs/Vivek Ramaswamy.md",
+    "people/game designers/Brenda Romero.md",
+    "people/scientists/Neri Oxman.md",
+    "people/game designers",
+    "people/entrepreneurs/Mark Cuban.md",
+    "people/entrepreneurs/Bill Ackman.md",
+    "people/scientists",
+    "people/Untitled.md",
+    "people/scientists/archeologists/Ed Barnhart.md",
+    "developmental psychology",
+    "people/entrepreneurs",
+    "people/scientists/archeologists/Flint Dibble.md",
+    "people/scientists/archeologists/Gregory Aldrete.md",
+    "_index/goals.md",
+    "people/scientists/archeologists",
+    "concepts/debt.md",
     "concepts/hormones/oxytocin.md",
     "concepts/romantic attraction.md",
     "concepts/hormones/serotonin.md",
@@ -167,22 +198,7 @@
     "emotions and brain states",
     "concepts/Intrinsic Value.md",
     "concepts/Universal Basic Income.md",
-    "ayurveda",
-    "personality models/MBTI.md",
-    "personality models/models.md",
-    "spiral dynamics/good vs evil for all spiral stages.md",
-    "spiral dynamics/spiral dynamics.md",
-    "spiral dynamics/stages/8 turquoise.md",
-    "spiral dynamics/stages/7 yellow.md",
-    "spiral dynamics/stages/6 green.md",
-    "spiral dynamics/stages/5 orange.md",
-    "spiral dynamics/stages/4 blue.md",
-    "spiral dynamics/stages",
-    "concepts",
-    "_unrelated",
-    "personality models",
-    "myers-briggs type indicator MBTI",
-    "people",
-    "spiral dynamics"
+    "personality models/ayurveda",
+    "developmental psychology/spiral dynamics/stages"
   ]
 }
