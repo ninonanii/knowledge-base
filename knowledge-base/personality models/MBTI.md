@@ -6,6 +6,12 @@ Myers-Briggs Type Indicator
 - **Thinking (T) vs. Feeling (F)**
 - **Judging (J) vs. Perceiving (P)**
 
+- energy style: quiet time vs social time
+- cognitive style: hands on practical vs abstract creative
+- values style: heart vs brain
+- life style: structured vs spontaneous
+
+
 - **Extraversion vs. Introversion**:
     - **"Do you feel more energized by being around other people (E) or by spending time alone (I)?"**
 - **Sensing vs. Intuition**:
