@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personality models/MBTI.md",
+                "file": "concepts/Universal Basic Income.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MBTI"
+              "title": "Universal Basic Income"
             }
           }
         ]
@@ -164,8 +164,9 @@
   },
   "active": "394f96f61aa1c93a",
   "lastOpenFiles": [
-    "personality models/models.md",
+    "concepts/using negative emotions.md",
     "personality models/MBTI.md",
+    "personality models/models.md",
     "people/politicians/Bernie Sanders.md",
     "concepts/hormones/dopamine.md",
     "people/politicians",
@@ -191,7 +192,6 @@
     "concepts/hormones/serotonin.md",
     "concepts/hormones",
     "concepts/Infinity.md",
-    "concepts/using negative emotions.md",
     "_index/me.md",
     "_index/topics overview.md",
     "_index/how to use markdown.md",
