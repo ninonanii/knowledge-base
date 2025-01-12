@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/Defuse Procrastination.md",
+                "file": "concepts/Egocyntonic vs Egodystonic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Defuse Procrastination"
+              "title": "Egocyntonic vs Egodystonic"
             }
           }
         ]
@@ -164,8 +164,9 @@
   },
   "active": "394f96f61aa1c93a",
   "lastOpenFiles": [
-    "concepts/Wisdom of the crowd.md",
     "concepts/Defuse Procrastination.md",
+    "concepts/Egocyntonic vs Egodystonic.md",
+    "concepts/Wisdom of the crowd.md",
     "concepts/Universal Basic Income.md",
     "concepts/using negative emotions.md",
     "personality models/MBTI.md",
@@ -196,7 +197,6 @@
     "concepts/hormones",
     "concepts/Infinity.md",
     "_index/me.md",
-    "_index/topics overview.md",
     "emotions and brain states",
     "personality models/ayurveda",
     "developmental psychology/spiral dynamics/stages"
