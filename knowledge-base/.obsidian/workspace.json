@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/Egocyntonic vs Egodystonic.md",
+                "file": "politics/austria/neos/feedback.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Egocyntonic vs Egodystonic"
+              "title": "feedback"
             }
           }
         ]
@@ -165,8 +165,14 @@
   },
   "active": "394f96f61aa1c93a",
   "lastOpenFiles": [
-    "concepts/Defuse Procrastination.md",
+    "politics/austria/Plan of attack.md",
+    "politics/austria/neos/feedback.md",
+    "politics/austria/neos",
     "concepts/Egocyntonic vs Egodystonic.md",
+    "politics/austria",
+    "politics",
+    "Untitled.md",
+    "concepts/Defuse Procrastination.md",
     "concepts/Wisdom of the crowd.md",
     "concepts/Universal Basic Income.md",
     "concepts/using negative emotions.md",
@@ -194,12 +200,6 @@
     "concepts/debt.md",
     "concepts/hormones/oxytocin.md",
     "concepts/romantic attraction.md",
-    "concepts/hormones/serotonin.md",
-    "concepts/hormones",
-    "concepts/Infinity.md",
-    "_index/me.md",
-    "emotions and brain states",
-    "personality models/ayurveda",
-    "developmental psychology/spiral dynamics/stages"
+    "concepts/hormones"
   ]
 }
