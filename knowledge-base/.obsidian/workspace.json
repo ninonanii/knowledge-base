@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "394f96f61aa1c93a",
+            "id": "6951009dc59447b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "politics/austria/neos/feedback.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "feedback"
+              "title": "New tab"
             }
           }
         ]
@@ -163,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "394f96f61aa1c93a",
+  "active": "6951009dc59447b2",
   "lastOpenFiles": [
-    "politics/austria/Plan of attack.md",
     "politics/austria/neos/feedback.md",
+    "politics/austria/Plan of attack.md",
     "politics/austria/neos",
     "concepts/Egocyntonic vs Egodystonic.md",
     "politics/austria",
